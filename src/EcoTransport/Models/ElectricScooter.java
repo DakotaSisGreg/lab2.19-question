@@ -1,5 +1,6 @@
 package EcoTransport.Models;
 
+
 public class ElectricScooter {
 
     private double maxSpeed, weightCapacity;

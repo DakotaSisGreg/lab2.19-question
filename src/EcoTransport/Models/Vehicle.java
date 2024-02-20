@@ -1,6 +1,7 @@
 package EcoTransport.Models;
 public class Vehicle {
 
+
     private String ownerName, vehicleType, registrationNumber;
 
     public Vehicle(String ownerName, String vehicleType, String registrationNumber) {

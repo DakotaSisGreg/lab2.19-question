@@ -1,6 +1,7 @@
 package EcoTransport.Models;
 
 
+
 public class ElectricCar {
 
     private double batteryCapacity, range;
